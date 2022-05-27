@@ -4,7 +4,7 @@ pl1
 ![pl1](https://user-images.githubusercontent.com/60447970/170621393-295d52bf-356e-4b8a-abac-91a5c9f2c5bb.png)
 
 pl2
-pl2![pl2](https://user-images.githubusercontent.com/60447970/170630808-056ec87e-cb2a-4324-81ec-b0c8e5ea7fd1.png)
+![pl2](https://user-images.githubusercontent.com/60447970/170630808-056ec87e-cb2a-4324-81ec-b0c8e5ea7fd1.png)
 
 pl3
 ![pl3](https://user-images.githubusercontent.com/60447970/170630820-fe3740fd-088c-4a43-ac0d-a6e022dc83da.png)
